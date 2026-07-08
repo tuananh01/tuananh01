@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://leetcode.com">
+<!-- <a href="https://leetcode.com"> -->
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=tuananh01&animated=true" alt="LeetCode Badges" />
-</a>
+<!-- </a> -->
