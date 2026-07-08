@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <a href="https://leetcode.com"> -->
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=tuananh01&animated=true" alt="LeetCode Badges" />
-<!-- </a> -->
+<!-- 1. Sends people to your profile when clicked -->
+<a href="https://leetcode.com"> 
+
+  <!-- 2. Fetches your specific data, but hides the text header -->
+  <img src="https://vercel.app" width="450" alt="LeetCode Badges" />
+
+</a>
