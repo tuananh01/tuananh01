@@ -14,11 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=tuananh01&anon=true&border=no-border&filter=study" width="500" alt="LeetCode Badges" />
 
-<!-- 1. Sends people to your profile when clicked -->
-<a href="https://leetcode.com"> 
-
-  <!-- 2. Fetches your specific data, but hides the text header -->
-  <img src="https://vercel.app" width="450" alt="LeetCode Badges" />
-
-</a>
